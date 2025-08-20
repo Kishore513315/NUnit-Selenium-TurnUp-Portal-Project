@@ -1,0 +1,1 @@
+﻿Saves test execution reports and screenshots.
