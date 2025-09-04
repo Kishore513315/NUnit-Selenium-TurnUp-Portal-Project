@@ -1,1 +1,0 @@
-﻿Holds NUnit test classes that use the page objects.

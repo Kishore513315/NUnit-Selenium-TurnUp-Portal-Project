@@ -1,1 +1,0 @@
-﻿The Pages folder holds one class per application page, each with locators and reusable methods (actions) for that page.

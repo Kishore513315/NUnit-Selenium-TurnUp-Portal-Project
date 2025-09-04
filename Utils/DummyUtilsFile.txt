@@ -1,1 +1,0 @@
-﻿Keeps helper functions like waits, screenshots, or data generators.
